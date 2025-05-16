@@ -1,8 +1,8 @@
-# :earth_americas: GDP dashboard template
+# :earth_americas: Paid Customer Job Activities
 
-A simple Streamlit app showing the GDP of different countries in the world.
+A simple Streamlit app Analyzing Job Runs and Retention Rates Across Key Enterprise Customers.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://test-dashboard-paidlistingjobactivity.streamlit.app/)
 
 ### How to run it on your own machine
 
